@@ -27,4 +27,4 @@ Asp.Net 8 ile geliştirilmiş - MVC kimlik doğrulama projesi örneği
 - appsettings.Development.json adresinde Sql bağlantı ayarları kontrol edilmeli.
 
 # Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wQc-evXZCyM?si=iSYMy6ECzaSmsXVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img src=(https://www.youtube.com/watch?v=wQc-evXZCyM) "Now in Android: 55")
